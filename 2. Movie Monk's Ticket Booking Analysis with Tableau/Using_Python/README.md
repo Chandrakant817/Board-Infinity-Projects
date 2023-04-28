@@ -10,16 +10,19 @@
 ![image](https://user-images.githubusercontent.com/69152112/234865700-8cf7d496-473d-4d70-bc8c-441d57ab86b6.png)
 
 ## DashBoard : Analysing Ticket Booking on Movie Monk [Part.1]
-![image](https://user-images.githubusercontent.com/69152112/234864435-8fc231f1-154e-4c5b-85cb-f3ae4d972a6f.png)
+![image](https://user-images.githubusercontent.com/69152112/235252462-4c5734c2-9f2e-4a5e-ae2c-fc6d82c261eb.png)
+
 
 ## Continued Dashboard Analysing Ticket Booking on Movie Monk [Part.2]
-![image](https://user-images.githubusercontent.com/69152112/234866408-aff6040c-ef68-4d37-a0c9-fe77275b3cd1.png)
+![image](https://user-images.githubusercontent.com/69152112/235252532-df51082a-7184-4ebe-920d-39d232d77897.png)
+
 
 <---------------------------------------------------------------------------------------------------------------------------------------------------->
 
 ## Story 1 : Analysing Ticket Booking on Movie Monk [Part.1]
-![image](https://user-images.githubusercontent.com/69152112/234866806-3f66b2c6-e5ec-45c8-a337-98c9b2464ac8.png)
+![image](https://user-images.githubusercontent.com/69152112/235252617-920de5e5-d84f-4093-bd47-96d3750ad5d6.png)
 
 
 ## Continued Story 2 Analysing Ticket Booking on Movie Monk [Part.2]
-![image](https://user-images.githubusercontent.com/69152112/234866972-f8487b05-c5d4-4881-8d2d-02c53d23619c.png)
+![image](https://user-images.githubusercontent.com/69152112/235252710-7b681724-f5b7-4775-b6f6-92a799c52538.png)
+

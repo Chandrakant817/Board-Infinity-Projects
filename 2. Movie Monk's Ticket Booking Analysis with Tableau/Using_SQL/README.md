@@ -41,21 +41,25 @@ ON a.FK_Theater_Key = f.Theater_Key;
 ## Sql Output after performing join operation
 ![image](https://user-images.githubusercontent.com/69152112/234870660-696ef9d3-11af-431f-be24-7177c1d4828b.png)
 
+## Dashboard Url:
+> https://public.tableau.com/app/profile/chandrakant.b.thakur/viz/Sql_Dashboard_task2_Updated/BI-Dashboard1
 
 ## DashBoard : Analysing Ticket Booking on Movie Monk [Part.1]
-![image](https://user-images.githubusercontent.com/69152112/234873009-a048cde9-1e22-47ec-9cfd-74781f1121a7.png)
+![image](https://user-images.githubusercontent.com/69152112/235253780-c6549a58-318f-4397-8a17-dc37e6ed36b4.png)
+
 
 ## Continued Dashboard Analysing Ticket Booking on Movie Monk [Part.2]
-![image](https://user-images.githubusercontent.com/69152112/234873125-22c23613-9d39-41cb-9c6b-d51cad4dedc9.png)
+![image](https://user-images.githubusercontent.com/69152112/235253845-f1558682-d155-499d-9a66-65e844f897a8.png)
+
 
 <---------------------------------------------------------------------------------------------------------------------------------------------------->
 
 ## Story 1 : Analysing Ticket Booking on Movie Monk [Part.1]
-![image](https://user-images.githubusercontent.com/69152112/234873596-493914f5-7e29-4ad2-9fea-c64a1ad51548.png)
+![image](https://user-images.githubusercontent.com/69152112/235253958-f70e6406-b42a-48d7-920b-50deaa99287f.png)
+
 
 ## Continued Story 2 Analysing Ticket Booking on Movie Monk [Part.2]
-![image](https://user-images.githubusercontent.com/69152112/234874027-13ebb2d0-ed5b-4b1c-a553-26767e02413c.png)
-
+![image](https://user-images.githubusercontent.com/69152112/235254031-94ecd113-fee8-4e58-9fd6-bff1e8a3e45a.png)
 
 
 

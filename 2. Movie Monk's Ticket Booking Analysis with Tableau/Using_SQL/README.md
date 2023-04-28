@@ -45,12 +45,10 @@ ON a.FK_Theater_Key = f.Theater_Key;
 > https://public.tableau.com/app/profile/chandrakant.b.thakur/viz/Sql_Dashboard_task2_Updated/BI-Dashboard1
 
 ## DashBoard : Analysing Ticket Booking on Movie Monk [Part.1]
-> https://public.tableau.com/app/profile/chandrakant.b.thakur/viz/Sql_Dashboard_task2_Updated/BI-Dashboard1
 ![image](https://user-images.githubusercontent.com/69152112/235253780-c6549a58-318f-4397-8a17-dc37e6ed36b4.png)
 
 
 ## Continued Dashboard Analysing Ticket Booking on Movie Monk [Part.2]
-> https://public.tableau.com/app/profile/chandrakant.b.thakur/viz/Sql_Dashboard_task2_Updated/BI-Dashboard1
 ![image](https://user-images.githubusercontent.com/69152112/235253845-f1558682-d155-499d-9a66-65e844f897a8.png)
 
 

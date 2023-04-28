@@ -6,8 +6,10 @@
         Fillig the Missing Values using basic Statics technique i.e Measure of Central Tendency
 ### Step 3: Final Dataset (Moving this Dataset to Tableau for Visualization)
 
-
 ![image](https://user-images.githubusercontent.com/69152112/234865700-8cf7d496-473d-4d70-bc8c-441d57ab86b6.png)
+
+## Dashboard url: 
+> https://public.tableau.com/app/profile/chandrakant.b.thakur/viz/BITask_Python/BI-Dashboard1
 
 ## DashBoard : Analysing Ticket Booking on Movie Monk [Part.1]
 ![image](https://user-images.githubusercontent.com/69152112/235252462-4c5734c2-9f2e-4a5e-ae2c-fc6d82c261eb.png)

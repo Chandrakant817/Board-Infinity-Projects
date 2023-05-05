@@ -22,4 +22,4 @@ The database is provided to you from various tables containing inventory informa
 
 The database has 2 tables as ‘transaction_data’ and ‘inventory_data’.
 
-
+> https://github.com/Chandrakant817/BI-Projects/tree/main/3.%20Business%20Analysis%20of%20a%20Snacks%20Manufacturer/SQL_datafiles

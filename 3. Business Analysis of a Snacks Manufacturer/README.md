@@ -1,4 +1,6 @@
-## Problem statement (Excel)
+# Business Analysis of a Snacks Manufacturer
+
+## 1. Problem statement (Excel)
 As there has been a lot of loss of the company due to reduced sales in the stores because of the above-mentioned circumstances in the state, the company has decided to reduce the stocks of the products in the warehouse which will prevent all the wastage and losses.
 
 Munch box wants to know which products need to be manufactured more and for which products manufacturing needs to be stopped till the situation gets better economically. For this reason they will need a complete analysis of the products and the sales transactions to see which products are still making money and which are not.
@@ -12,7 +14,7 @@ The excel workbook has 2 sheets as ‘Transactions’ and ‘Inventory_data’.
 ![image](https://user-images.githubusercontent.com/69152112/236456802-adc23bf1-3bcb-4460-b4f0-0ff9d7487121.png)
 
 
-## Problem statement (SQL)
+## 2. Problem statement (SQL)
 There are other tasks and questions which are needed for the analysis on the same data which are easier to do in SQL.
 
 The database is provided to you from various tables containing inventory information and transaction history.

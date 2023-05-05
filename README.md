@@ -1,4 +1,4 @@
-# BI-Projects
+# Board Infinity Projects
 
 ## 1. Exploratory Analysis on Myntra's product data
 > https://github.com/Chandrakant817/BI-Projects/tree/main/1.%20EDA%20on%20Myntra%20Product%20Data

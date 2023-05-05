@@ -8,6 +8,7 @@ Munch box wants to know which products need to be manufactured more and for whic
 Let us consider you are a Data analyst working externally for this company and the data is provided to you in the form of excel sheets of the transactions, product information and the inventory information.
 
 The excel workbook has 2 sheets as ‘Transactions’ and ‘Inventory_data’.
+> https://github.com/Chandrakant817/BI-Projects/tree/main/3.%20Business%20Analysis%20of%20a%20Snacks%20Manufacturer/Excel_datafile
 
 ### Data Description
 

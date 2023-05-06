@@ -1,0 +1,9 @@
+Project Name: Business Analysis of a Snacks Manufacturer
+
+GitHub link for Project: https://github.com/Chandrakant817/Board-Infinity-Projects
+
+1. Excel Task Solution: 
+https://github.com/Chandrakant817/Board-Infinity-Projects/tree/main/3.%20Business%20Analysis%20of%20a%20Snacks%20Manufacturer/Excel_datafile
+
+2. SQL Task Solution:
+https://github.com/Chandrakant817/Board-Infinity-Projects/tree/main/3.%20Business%20Analysis%20of%20a%20Snacks%20Manufacturer/SQL_datafiles
